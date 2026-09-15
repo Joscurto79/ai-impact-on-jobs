@@ -1,5 +1,3 @@
-# ai-impact-on-jobs
-Impacts of AI on jobs and HR tacticts 
 # 📊 Observatoire RH — Compétences & Risque IA (2024–2030)
 
 > Cockpit décisionnel exécutif d'aide à la reconversion professionnelle (reskilling) face à l'impact de l'intelligence artificielle sur l'emploi.
